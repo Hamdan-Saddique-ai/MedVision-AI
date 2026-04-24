@@ -49,8 +49,6 @@ Feel free to fork this repo and submit a pull request.
 
 Hamdan Saddique
 
-GitHub: your-username
-Email: your-email@example.com
 ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
