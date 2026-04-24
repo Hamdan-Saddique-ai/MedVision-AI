@@ -48,6 +48,6 @@ Feel free to fork this repo and submit a pull request.
 ## 📬 Author
 
 Hamdan Saddique
-⭐ Support
+## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
