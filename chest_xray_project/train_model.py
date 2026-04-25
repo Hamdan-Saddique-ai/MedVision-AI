@@ -1,7 +1,4 @@
-"""
-CHEST X-RAY CLASSIFICATION - HIGH ACCURACY MODEL
-This script trains a model with 85-95% accuracy using EfficientNetB0
-"""
+
 
 import os
 import numpy as np
