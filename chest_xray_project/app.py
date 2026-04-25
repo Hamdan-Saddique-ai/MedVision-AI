@@ -1,7 +1,4 @@
-"""
-CHEST X-RAY DIAGNOSIS SYSTEM - WEB APPLICATION
-Run with: streamlit run app.py
-"""
+
 
 import streamlit as st
 import tensorflow as tf
